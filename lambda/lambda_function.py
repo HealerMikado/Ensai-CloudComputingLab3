@@ -1,5 +1,6 @@
 import json
 import os
+from datetime import datetime
 print('Loading function')
 
 def lambda_handler(event, context):
